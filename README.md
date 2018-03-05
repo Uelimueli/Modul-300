@@ -8,7 +8,7 @@ Database with Web-Server
 4. Documentation
 
 ## Description
-Required programs:
+### Required programs:
 * Installing vagrant
 * Openvpn
 * Networking
@@ -22,13 +22,4 @@ https://www.vagrantup.com/downloads.html
 GIT is needed for vagrant:
 https://git-scm.com/download/win
 
-### How to install and connect to a Server with Openvpn
-Install ``openvpn`` package:
-```bash
-sudo apt-get install openvpn
-```
-Connect to ``openvpn`` server:
-```bash
-sudo openvpn --config /path/to/config.ovpn
-```
-Source: https://askubuntu.com/questions/460871/how-to-setup-openvpn-client
+## Configuration
