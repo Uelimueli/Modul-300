@@ -2,10 +2,10 @@
 UeliMueli
 Database with Web-Server
 ## Outline
-1. [Description]
-2. [Configuration]
-3. [Test]
-4. [Documentation]
+1. Description
+2. Configuration
+3. Test
+4. Documentation
 
 ## Description
 Required programs:
@@ -15,7 +15,7 @@ Required programs:
 * Setup external server with internet access and domain name
 * Configure vagrant server
 
-### How to install vagrant
+### Start Vagrant
 Downloading and installing vagrant from:
 https://www.vagrantup.com/downloads.html
 
