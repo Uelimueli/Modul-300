@@ -9,17 +9,7 @@ Database with Web-Server
 
 ## Description
 ### Required programs:
-* Installing vagrant
-* Openvpn
-* Networking
-* Setup external server with internet access and domain name
-* Configure vagrant server
+* Install [vagrant](https://www.vagrantup.com/downloads.html "Vagrant Download Link")
+* Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads "VirtualBox Download Link")
+* Install Shell [GIT](https://git-scm.com/downloads "GIT Download Link")
 
-### Start Vagrant
-Downloading and installing vagrant from:
-https://www.vagrantup.com/downloads.html
-
-GIT is needed for vagrant:
-https://git-scm.com/download/win
-
-## Configuration
