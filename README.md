@@ -13,3 +13,5 @@ Database with Web-Server
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads "VirtualBox Download Link")
 * Install Shell [GIT](https://git-scm.com/downloads "GIT Download Link")
 
+### Network plan
+![alt text](C:\Users\T450\Documents\Schule\Modul_300/Netzwerkplan.png "Network Diagram")
