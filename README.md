@@ -14,4 +14,4 @@ Database with Web-Server
 * Install Shell [GIT](https://git-scm.com/downloads "GIT Download Link")
 
 ### Network plan
-![alt text](C:\Users\T450\Documents\Schule\Modul_300/Netzwerkplan.png "Network Diagram")
+![Logical Network Diagram](https://github.com/Uelimueli/Modul-300/blob/master/Netzwerkplan.png "Network Diagram")
