@@ -1,25 +1,3 @@
-# Modul-300
-UeliMueli
-Database with Web-Server
-## Outline
-1. Description
-2. Configuration
-3. Documentation
-
-## Description
-### Required programs:
-* Install [vagrant](https://www.vagrantup.com/downloads.html "Vagrant Download Link")
-* Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads "VirtualBox Download Link")
-* Install Shell [GIT](https://git-scm.com/downloads "GIT Download Link")
-* Install Ubuntu Server [Ubuntu](https://www.ubuntu.com/download/server "Ubuntu Download Link")
-### Network plan
-![Logical Network Diagram](https://github.com/Uelimueli/Modul-300/blob/master/Netzwerkplan.png "Network Diagram")
-
-## Configuration
-### Vagrant File configuration
-The whole programm configuration is only on this one file.
-After you created a Folder with a from you choosen name, you have to create a vagrant file. in this file you can past the following code.
-```Vagrant File
 
 Vagrant.configure("2") do |config|
   # The most common configuration options are documented and commented below.
@@ -109,9 +87,3 @@ end
     SHELL
   end
 end
-```
-After you have saved this file, you can change the directory in the shell to the folder. 
-You start the Own Cloud configuration with Vagrant up.
-
-## Evaluation
-The work with Vagrant, was my first touch with automatic installation and I learned a lot of new things. 
