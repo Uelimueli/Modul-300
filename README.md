@@ -15,3 +15,5 @@ Database with Web-Server
 
 ### Network plan
 ![Logical Network Diagram](https://github.com/Uelimueli/Modul-300/blob/master/Netzwerkplan.png "Network Diagram")
+
+### Firewall Configuration
