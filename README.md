@@ -4,7 +4,7 @@ Database with Web-Server
 ## Outline
 1. Description
 2. Configuration
-3. Documentation
+3. Evaluation
 
 ## Description
 ### Required programs:
