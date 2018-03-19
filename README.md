@@ -114,4 +114,4 @@ After you have saved this file, you can change the directory in the shell to the
 You start the Own Cloud configuration with Vagrant up.
 
 ## Evaluation
-The work with Vagrant, was my first touch with automatic installation and I learned a lot of new things. 
+The work with Vagrant, was my first touch with automatic installation and I learned a lot of new things. I have now the ability to setup new systems with a self created vagrant file.
